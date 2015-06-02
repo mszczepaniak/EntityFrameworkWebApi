@@ -161,6 +161,7 @@
     </Compile>
     <Compile Include="Models\Book.cs" />
     <Compile Include="Models\EntityFrameworkWebApiContext.cs" />
+    <Compile Include="Models\EntityFrameworkWebApiContextInitializer.cs" />
     <Compile Include="Models\Order.cs" />
     <Compile Include="Models\OrderDetail.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
