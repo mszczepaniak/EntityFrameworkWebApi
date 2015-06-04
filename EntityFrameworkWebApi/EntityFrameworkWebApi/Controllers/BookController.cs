@@ -17,6 +17,8 @@ namespace EntityFrameworkWebApi.Controllers
         private EntityFrameworkWebApiContext db = new EntityFrameworkWebApiContext();
 
         // GET: api/Book
+
+        //WORK HARD
         public IQueryable<Book> GetBooks()
         {
             return db.Books;
